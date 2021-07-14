@@ -1,0 +1,15 @@
+{
+  "name": "chrome-localstorage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node ./test/main.js"
+  },
+  "dependencies": {
+    "leveldown": "^6.0.0"
+  },
+  "devDependencies": {},
+  "author": "toyobayashi",
+  "license": "MIT"
+}
